@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html>
+<style>{background-color: powderblue;}
+<head>
+<title> Classic Buttermilk Pancakes </title>
+</head>
+<body>
+<h1>
+{
+  color: blue;
+  font-family: verdana;
+  font-size: 300%;
+}
+About this recipe:</h1>
+<p>This recipe will yield the fluffiest, most tender, and most delicious pancakes possible. The combination of of buttermilk, quality vanilla, 
+whipped egg whites, and some salt are just some of the things that contribute to the tenderness and great taste of these pancakes. </p>
+<h2> What you'll need:</h2>
+
+<ol>{
+  color: blue;
+  font-family: verdana;
+  font-size: 300%;
+}
+<li>1 3/4 Cups of Flour</li> 
+<li>2 Teaspoons of Iodized Salt</li> 
+<li>2 Tablespoons of Baking Powder</li> 
+<li>2 Tablespoons of Baking Powder</li>
+<li>3 1/2 Tablespoons of Granulated Sugar</li>
+<li>1 1/2 Cups of Buttermilk</li>
+<li>2 Tablespoons of Butter</li>
+<li>1 Whole egg</li>
+<li>1 Whole egg</li>
+<li>1 Egg yolk</li>
+<li>2 egg whites</li>
+<li>
+2 Teaspoons of Vanilla Extract</li>
+</ol>
+
+<h3>{
+  color: blue;
+  font-family: verdana;
+  font-size: 300%;
+}Instructions:</h3>
+<p>In a large mixing bowl combine the flour, salt, baking powder, and sugar. Once they are mixed all together form a well in the center of the mixture.
+Now it's time for the wet ingredients:in a glass measuring cup (not necessary but recommended for easy clean up, pouring, and measuring)combine the buttermilk and eggs. 
+Mix those together and makes sure the egg has been completely broken up and no large chunks of yolk remain. Add the vanilla and slowly pour in the melted butter. 
+Pour in the wet ingredients mixture in the well we formed earlier and mix. 
+
+Take care to not over mix; just to the point that most of the flour is hydrated but there are
+still lumps. Flour around the sides of the bowl, it will either get hydrated on its own during the batter's rest, or will get folded in by the next step. 
+Which is whipping the egg whites to soft peaks and slowly folding them as to not deflate the air built up by the whipping. Once you have a lumpy, soft, mixture cover the
+bowl and place it in the fridge to rest for thirty minutes. (This step is optional but recommended.)
+
+In the last 5 minutes of the rest, place a non-stick pan on low-medium heat to allow it to get heated, so the pancakes can have nice and uniform
+browning. Pour about 1/4 cup of the batter into the pan simply let it cook. When bubbles start to form around the rim of the pancakes and the rim begins to slighty solify
+flip and let it cook for another 30 seconds to a minute. Repeat this process until your run out of batter. 
+
+Lastly garnish with toppings of your choice and enjoy.
+</p>
+</body>
+
+<img src="pancakes.jpg" alt="Your finished product should look something like this." height="50" width="50">
+
+<a href="https://www.youtube.com/watch?v=TuKjk-iOvaY"> For the video instructions, click here </a>
+
+
+index.html
